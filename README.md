@@ -13,7 +13,6 @@ The Security Audit project focused on conducting a comprehensive security assess
 
 ### Tools Used
 
-- Manual testing techniques using web application security tools (like Burp Suite).
 - Risk assessment frameworks for evaluating the severity of identified vulnerabilities.
 - Reporting tools for documenting findings and recommendations.
 
@@ -21,24 +20,22 @@ The Security Audit project focused on conducting a comprehensive security assess
 
 ### 1. Initial Scope Definition
 Analyzed the scope of the audit, including the systems, applications, and services to be assessed.
-![Page 1](https://imgur.com/dDdA409)
-https://imgur.com/dDdA409
-Ref 1: Botium Toys: Scope, goals, and risk assessment report
+![Botium-Toys-Scope-goals-and-risk-assessment-report](https://github.com/user-attachments/assets/a8a5ad54-997b-479b-8842-995058473e3f)
+![Botium-Toys-Scope-goals-and-risk-assessment-report2](https://github.com/user-attachments/assets/44083b90-6a9a-4d30-ae0a-16b5d70b9cd7)
+![Botium-Toys-Scope-goals-and-risk-assessment-report3](https://github.com/user-attachments/assets/144c9329-5479-4cfd-a3bf-900e99f0e4a3)
 
+Ref 1-3: Botium Toys: Scope, goals, and risk assessment report
 
-### 2. Risk Assessment
-Evaluated the identified vulnerabilities based on their potential impact and likelihood of exploitation, categorizing them by risk levels.
-Ref 3: Risk Assessment Matrix Risk Assessment Matrix
+### 2. Controls and Compliance Checklist & Remediation Recommendations
+Evaluated the identified controls and compliances followed by remediation recommendations for those that were not in place or met.
 
+![Botium Toys Security Controls and Compliance Checklist 1](https://github.com/user-attachments/assets/f105a6d4-5406-4436-a25a-cdc40b0a359f)
+![Botium Toys Security Controls and Compliance Checklist 2](https://github.com/user-attachments/assets/92b4e0fa-850a-4ed2-8e64-20a3316ab354)
+![Botium Toys Security Controls and Compliance Checklist 3](https://github.com/user-attachments/assets/db4cd5ff-f920-4e0a-aed4-79547f6a5ac1)
+![Botium Toys Security Controls and Compliance Checklist 4](https://github.com/user-attachments/assets/b2d24953-cd4b-4e20-90e8-5230251d8d82)
+![Botium Toys Security Controls and Compliance Checklist 5](https://github.com/user-attachments/assets/a86b0fb4-5492-4ea8-a34c-af0ffd508d51)
 
-### 3. Reporting
-Compiled a detailed report summarizing the findings, including an executive summary, technical details, and remediation recommendations.
-Ref 4: Security Audit Report Security Audit Report
-
-
-### 4. Presentation
-Presented the findings to stakeholders, highlighting critical vulnerabilities and proposed mitigation strategies, fostering discussions around security improvements.
-Ref 5: Presentation Slides Presentation Slides
+Ref 4-8: Controls and Compliance Checklist & Remediation Recommendations
 
 ## Conclusion
 
