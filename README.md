@@ -20,7 +20,10 @@ The Security Audit project focused on conducting a comprehensive security assess
 ## Steps
 
 ### 1. Initial Scope Definition
-Defined the scope of the audit, including the systems, applications, and services to be assessed.
+Analyzed the scope of the audit, including the systems, applications, and services to be assessed.
+![Page 1](https://imgur.com/dDdA409)
+https://imgur.com/dDdA409
+Ref 1: Botium Toys: Scope, goals, and risk assessment report
 
 
 ### 2. Risk Assessment
